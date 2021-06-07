@@ -9,14 +9,14 @@ const questions = [
   // questions to user using "inquirer"
   {
     type: "input",
-    message: "What is your GitHub user name?",
-    name: "username",
+    message: "What is your GitHub username?",
+    name: "nkhan14",
   },
 
   {
     type: "input",
-    message: "What is your project Title?",
-    name: "title",
+    message: "What is your project's Title?",
+    name: "Title",
     default: "Generate a README.md file ",
   },
 
@@ -48,6 +48,14 @@ const questions = [
     name: "usage",
     default:
       "1.Run node index.js 2.Answers the questions 3.The README.md file will be created. ",
+  },
+
+  {
+    type: "input",
+    message:
+      "Please enter GitHub usernames of the contributor if any (If there are mulitple contributor, seperate names with commas! )",
+    name: "contributors",
+    default: " Alap, Emily, Tyree, Scott, etc.",
   },
 
   {
