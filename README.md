@@ -1,8 +1,8 @@
 
-# Project Title : Generate a ReadMe Man
+# Project Title : undefined
 
 ## Project Description:
-This is just an example and test run man.
+This application will allow me to generate a good ReadMe.md utilizing node.js.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,19 +13,19 @@ This is just an example and test run man.
 * [Author] (#Author)
 
 ## Installation
-Well, first you need to know how to use VSCode. Then some npm init stuff. Then npm i stuff. Then you quite because its annoying. Then you start again after a good coffee. 
+There are many steps involved. The biggest is the npm stuff. You will need to do npm init and npm i for inquirer, axios, and readline. This is the bulk of it. Then its just looking at all the ways the packages are and making an index.js. 
 
 ## Usage
-Just figure it out or buzz off. 
+You need to be in the proper folder. Then run terminal. Then command the following line: "node index.js" . Then you need to answer the questions. Simple!
 
 ## Contributors
-undefined
+There are none. 
 
 ## Test
-No. I will not. 
+Just test it out by running it and see if it works. If there is an error, let me know!
 
 ## Questions
-If you have any questions, contact nkhan14 on GitHub.
+If you have any questions, contact undefined on GitHub.
 
 ## License
 MIT License
@@ -49,7 +49,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Author 
-![GitHub profile pic](https://avatars.githubusercontent.com/u/79664414?v=4)
+![GitHub profile pic](https://avatars.githubusercontent.com/u/11791361?v=4)
 
 ## Badges
-![badmath](https://img.shields.io/github/repo-size/nkhan14/GoodReadMe Generator)
+![badmath](https://img.shields.io/github/repo-size/undefined/HW9_GoodReadMe)
+
+## MockUp
+![ExampleVideo](./HW9_GoodReadmeGenerator/example.mov) 
