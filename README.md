@@ -55,4 +55,4 @@ SOFTWARE.
 ![badmath](https://img.shields.io/github/repo-size/undefined/HW9_GoodReadMe)
 
 ## MockUp
-![ExampleVideo](./HW9_GoodReadmeGenerator/example.mov) 
+![ExampleVideo](./HW9_GoodReadmeGenerator/example.gif) 
